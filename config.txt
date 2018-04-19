@@ -1,3 +1,3 @@
-SECRET_KEY='some very long key here'
-USERNAME='username-test'
-PASSWORD='password-test'
+SECRET_KEY='some very long key here man’
+USERNAME=‘goure’
+PASSWORD=‘M00C0wMan’
